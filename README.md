@@ -45,10 +45,10 @@
 ### 📌 Projects
 Here are a few of my notable projects:
 
+- 🔗 [i-Tasks (Your task manager)](https://github.com/Techie-manan/i-Tasks) — A tool to add and manage multiple tasks.
 - 🔗 [Custom Cursor](https://github.com/Techie-manan/Custom-Cursor) — A project that customizes the cursor appearance on a webpage.
 - 🔗 [Age Calculator](https://github.com/Techie-manan/Age-Calculator) — A simple JavaScript application to calculate age based on the input date.
 - 🔗 [Image Slider](https://github.com/Techie-manan/Image-Slider) — An image slider component built using HTML, CSS, and JavaScript.
-- 🔗 [Dynamic Website Builder](https://github.com/Techie-manan/Dynamic-website-builder) — A tool to build dynamic websites with customizable components.
 
 ---
 
