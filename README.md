@@ -45,10 +45,12 @@
 ### 📌 Projects
 Here are a few of my notable projects:
 
+- 🔗 [Cryptix](https://github.com/Techie-manan/Cryptix) — A Web3 based web app with next level modern UI/UX(in building stage).
+- 🔗 [WorkX](https://github.com/Techie-manan/WorkX) — An Urban Company inspired serving company's modern web app.
+- 🔗 [Snap Budget](https://github.com/Techie-manan/SnapBudget) — A Finance web app where user can track their daily expenses by just snapping the receipt and uploading it.
+- 🔗 [Blogixx](https://github.com/Techie-manan/Blogixx) — Blogging platform where user can write and read blogs.
 - 🔗 [i-Tasks (Your task manager)](https://github.com/Techie-manan/i-Tasks) — A tool to add and manage multiple tasks.
-- 🔗 [Custom Cursor](https://github.com/Techie-manan/Custom-Cursor) — A project that customizes the cursor appearance on a webpage.
 - 🔗 [Age Calculator](https://github.com/Techie-manan/Age-Calculator) — A simple JavaScript application to calculate age based on the input date.
-- 🔗 [Image Slider](https://github.com/Techie-manan/Image-Slider) — An image slider component built using HTML, CSS, and JavaScript.
 
 ---
 
