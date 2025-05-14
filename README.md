@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manan Aggarwal</h1>
-<h3 align="center">🚀 MERN Stack Developer | Passionate about building scalable web applications</h3>
+<h3 align="center">🚀 Frontend Developer | Passionate about building scalable web applications</h3>
 <h3 align="center"> An independent and self-motivated hardworking individual dedicated towards goals </h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **enhancing my projects and contributing to open-source**
 - 🌱 I’m learning **TypeScript, Next.js, and System Design**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, and Tailwind CSS**
+- 💬 Ask me about **React, Node.js, MongoDB, and Tailwind CSS**
 - 📫 How to reach me: **aggarwalmanan2005@gmail.com**
 - ⚡ Fun fact: *I turn ☕ into code and bugs into features.*
 
@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
