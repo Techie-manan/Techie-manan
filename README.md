@@ -45,7 +45,7 @@
 Here are a few of my notable projects:
 
 - 🔗 [Cryptix](https://github.com/Techie-manan/Cryptix) — A Web3 based web app with next level modern UI/UX(in building stage).
-- 🔗 [WorkX](https://github.com/Techie-manan/WorkX) — An Urban Company inspired serving company's modern web app.
+- 🔗 [WorkX](https://github.com/Techie-manan/WorkX) — An Urban Company inspired servicing company's modern web app.
 - 🔗 [Snap Budget](https://github.com/Techie-manan/SnapBudget) — A Finance web app where user can track their daily expenses by just snapping the receipt and uploading it.
 - 🔗 [Blogixx](https://github.com/Techie-manan/Blogixx) — Blogging platform where user can write and read blogs.
 - 🔗 [i-Tasks (Your task manager)](https://github.com/Techie-manan/i-Tasks) — A tool to add and manage multiple tasks.
