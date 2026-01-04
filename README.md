@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manan Aggarwal</h1>
-<h3 align="center">🚀 Frontend Developer | Passionate about building scalable web applications</h3>
+<h1 align="center">Hi, I'm Manan Aggarwal</h1>
+<h3 align="center"> Web3 Dev | Passionate about building scalable DApps</h3>
 <h3 align="center"> An independent and self-motivated hardworking individual dedicated towards goals </h3>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 - 🔭 I’m currently working on **enhancing my projects and contributing to open-source**
-- 🌱 I’m learning **TypeScript, Next.js, and System Design**
-- 💬 Ask me about **React, Node.js, MongoDB, and Tailwind CSS**
+- 🌱 I’m learning **TypeScript, Solana, and System Design**
+- 💬 Ask me about **React, Node.js, MongoDB, and Solidity**
 - 📫 How to reach me: **aggarwalmanan2005@gmail.com**
 - ⚡ Fun fact: *I turn ☕ into code and bugs into features.*
 
@@ -44,12 +44,12 @@
 ### 📌 Projects
 Here are a few of my notable projects:
 
+- 🔗 [Nusapay (Your cross-border payment manager)](https://github.com/Techie-manan/Nusapay) — It is a permissionless cross-border payment protocol built on Stellar.
+- 🔗 [0xGenIgnite](https://github.com/Techie-manan/0xgenignite) — Website for a Web3 based Hackathon at NIT Goa.
 - 🔗 [Cryptix](https://github.com/Techie-manan/Cryptix) — A Web3 based web app with next level modern UI/UX(in building stage).
 - 🔗 [WorkX](https://github.com/Techie-manan/WorkX) — An Urban Company inspired servicing company's modern web app.
 - 🔗 [Snap Budget](https://github.com/Techie-manan/SnapBudget) — A Finance web app where user can track their daily expenses by just snapping the receipt and uploading it.
 - 🔗 [Blogixx](https://github.com/Techie-manan/Blogixx) — Blogging platform where user can write and read blogs.
-- 🔗 [i-Tasks (Your task manager)](https://github.com/Techie-manan/i-Tasks) — A tool to add and manage multiple tasks.
-- 🔗 [Age Calculator](https://github.com/Techie-manan/Age-Calculator) — A simple JavaScript application to calculate age based on the input date.
 
 ---
 
@@ -65,4 +65,4 @@ Here are a few of my notable projects:
 
 ---
 
-<p align="center">Thanks for visiting my profile! 🙌</p>
+<p align="center">Thanks for visiting!</p>
